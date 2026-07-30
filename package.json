@@ -7,7 +7,8 @@
   "type": "module",
   "main": "index.js",
   "scripts": {
-    "01": "tsx ./src/01-basic-http-server.ts"
+    "01": "tsx ./src/01-basic-http-server.ts",
+    "02": "tsx ./src/02-routing.ts"
   },
   "dependencies": {
     "@types/node": "^26.1.2",
