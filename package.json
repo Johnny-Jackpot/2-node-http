@@ -7,7 +7,7 @@
   "type": "module",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "01": "tsx ./src/01-basic-http-server.ts"
   },
   "dependencies": {
     "@types/node": "^26.1.2",
